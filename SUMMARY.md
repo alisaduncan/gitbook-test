@@ -8,6 +8,5 @@
 
 ## Homework
 
-* [Untitled](homework/untitled.md)
 * [Untitled](homework/untitled-1.md)
 
